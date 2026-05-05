@@ -12,6 +12,7 @@ The app overrides a manually entered street address with a neighboring address b
 3. Observe the saved address in the profile.
 
 #Expected Result
+
 ​The application should save and display the exact house number (No. 60) that I manually entered and selected.
 The app should save the exact house number selected.
 
